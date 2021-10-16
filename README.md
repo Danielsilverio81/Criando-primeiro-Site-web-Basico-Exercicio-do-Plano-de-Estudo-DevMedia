@@ -11,7 +11,7 @@ que deveria ser implementado
 
 
 link para ,layout de como deveria ficar ,a estrutura da Pagina Principal:
-<https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/primeira_pagina_web_pousada/layout-pagina-principal-estilizada.jpeg>
+<https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/primeira_pagina_web_pousada/layout-pagina-principal-html.jpeg>
 
 Imagem de como ficou, A estrutura no html, com meu codigo:
 <img src="assets/2021-10-13-21-01-www.devmedia.com.br%20(1).png" alt="imagen do meu arquivo html" title="Meu arquivo html" heigth="300" width="400">
