@@ -1,0 +1,64 @@
+
+body {
+   font-family: 'source sans pro',sans-serif;
+}
+
+.topo {
+    position: fixed;
+    width: 100%;
+    background-color:whitesmoke;
+    border-bottom: 1px solid color:darkgray;
+}
+
+.container {
+    max-width: 1024px;
+}
+
+.topo .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    width: 100%;
+}
+
+.link-topo1 {
+    color:darkslategray;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.link-topo1 span {
+    color:aquamarine;
+    text-decoration: none;
+}
+
+.link-topo {
+    color:darkslategray;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin:30px;
+}
+
+.titulo {
+    background-image:url(../img-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-descricao {
+    padding: 0 20px;
+    font-size: 20px;
+    text-align: center;
+    border: solid 1px rgb(219, 212, 212);
+    background-color: rgba(70, 167, 130, 0.507);
+}
+
+.titulo-descricao h1,p {
+    color: aliceblue;
+}
