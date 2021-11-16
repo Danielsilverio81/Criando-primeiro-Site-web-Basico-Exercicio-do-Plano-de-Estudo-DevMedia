@@ -1,6 +1,11 @@
-
+* {box-sizing: border-box;}
 body {
    font-family: 'source sans pro',sans-serif;
+}
+
+.tamanho-maximo-container {
+    max-width: 1024px;
+    margin: 0 auto;
 }
 
 .topo {
@@ -26,6 +31,7 @@ body {
     color:darkslategray;
     text-transform: uppercase;
     text-decoration: none;
+    margin: 0 40px 0 0;
 }
 
 .link-topo1 span {
@@ -38,6 +44,12 @@ body {
     text-transform: uppercase;
     text-decoration: none;
     margin:30px;
+    padding: 0px 15px 10px 15px;
+    line-height: 18px;
+}
+
+.link:hover {
+    border-bottom: 3px solid gray;
 }
 
 .titulo {
@@ -56,9 +68,56 @@ body {
     font-size: 20px;
     text-align: center;
     border: solid 1px rgb(219, 212, 212);
+    border-radius: 5px;
     background-color: rgba(70, 167, 130, 0.507);
 }
 
 .titulo-descricao h1,p {
     color: aliceblue;
 }
+
+.acomodacoes {
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
+.acomodacoes h2 {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.acomodacoes h2 p {
+    color: #333;
+}
+
+.quarto {
+    display: flex;
+    justify-content: space-between;
+}
+
+.quarto {
+    margin-right: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+.quarto a {
+    text-decoration: none;
+    color: #333;
+}
+
+.quarto a p {
+    text-align: center;
+}
+
+.quarto:last-child {
+    margin-right: 0px;
+}
+
+img {
+    width: 100%;
+}
+
