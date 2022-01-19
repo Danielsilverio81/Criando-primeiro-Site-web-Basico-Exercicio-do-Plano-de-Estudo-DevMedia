@@ -19,6 +19,6 @@ Imagem de como ficou, A estrutura no html, com meu codigo:
  lista de Tarefas:
 
 - [x] Estrutura da pagina 
-- [ ] Estlizar com css a pagina principal
-- [ ] Fazer estrutura pagina dos Quartos
-- [ ] Css da pagina dos quartos
+- [X] Estlizar com css a pagina principal
+- [X] Fazer estrutura pagina dos Quartos
+- [X] Css da pagina dos quartos
