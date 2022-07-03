@@ -30,5 +30,5 @@ link para ,layout de como deveria ficar ,a estrutura da Pagina Principal:
 ### Imagem de como ficou:
 
 _________________________
-<img src="assets/My%20first%20website.gif" alt="imagen do meu arquivo " title="Meu primeiro site" heigth="600px" width="700px">
+<img src="assets/My%20first%20website.gif" alt="imagen do meu arquivo " title="Meu primeiro site" heigth="700px" width="800px">
 
