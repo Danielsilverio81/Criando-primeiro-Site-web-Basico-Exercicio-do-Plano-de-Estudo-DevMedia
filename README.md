@@ -1,20 +1,27 @@
-# Criando primeiro Site web Basico Exercício do Plano de Estudo DevMedia
- Criando **Primeiro** Site Basico
+# Creating First Static Website
+ Criando **Primeiro** Site estatico
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  site feito, para exercício da DevMedia através de cards Descritivos ,sem mostrar o codigo 
-que deveria ser implementado
+## Descrição em Português
 
-<img src="assets/2021-10-16%20(1).png" alt="DevMedia exercício" title="exercício">
+_________________________
+  Este projeto foi baseado em um layout entregue no projeto passo a passo na plataforma de ensino DevMedia, O formato Passo a passo  funciona da seguinte forma, é passado uma imagens do Produto final e em seguinte tem passos a serem conquistados com cards com pequenas descrições do que deve ser feito, sem muitos detalhes sobre o código com o incentivo para que o estudante crie o próprio código, o objetivo e chegar ao mesmo resultado ao final
 
- Na imagem acima, mostra os cards que descrevem, como deveria ser feito o site Basico
+  ## Description in English
+
+  _________________________
+This project was based on a layout delivered in the step-by-step project on the DevMedia teaching platform. that must be done, without much detail about the code with the incentive for the student to create their own code, the objective and to reach the same result in the end
+
+<img src="assets/2022-07-03.png" alt="DevMedia exercício" title="exercício">
+
+ Na imagem acima, temos um exemplo de como são os Cards explicativo
 
 
 link para ,layout de como deveria ficar ,a estrutura da Pagina Principal:
 <https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/primeira_pagina_web_pousada/layout-pagina-principal-html.jpeg>
 
-Imagem de como ficou, A estrutura no html, com meu codigo:
-<img src="assets/2021-10-13-21-01-www.devmedia.com.br%20(1).png" alt="imagen do meu arquivo html" title="Meu arquivo html" heigth="300" width="400">
+Imagem de como ficou:
+<img src="assets/2021-10-13-21-01-www.devmedia.com.br%20(1).png" alt="imagen do meu arquivo html" title="Meu arquivo html" heigth="100px" width="200px">
 
  lista de Tarefas:
 
