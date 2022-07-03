@@ -20,12 +20,13 @@ This project was based on a layout delivered in the step-by-step project on the 
 link para ,layout de como deveria ficar ,a estrutura da Pagina Principal:
 <https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/primeira_pagina_web_pousada/layout-pagina-principal-html.jpeg>
 
-Imagem de como ficou:
-<img src="assets/2021-10-13-21-01-www.devmedia.com.br%20(1).png" alt="imagen do meu arquivo html" title="Meu arquivo html" heigth="100px" width="200px">
-
  lista de Tarefas:
 
 - [x] Estrutura da pagina 
 - [X] Estlizar com css a pagina principal
 - [X] Fazer estrutura pagina dos Quartos
 - [X] Css da pagina dos quartos
+  
+Imagem de como ficou:
+<img src="assets/My%20first%20website.gif" alt="imagen do meu arquivo " title="Meu primeiro site" heigth="100px" width="200px">
+
