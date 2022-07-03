@@ -12,7 +12,7 @@ _________________________
   _________________________
 This project was based on a layout delivered in the step-by-step project on the DevMedia teaching platform. that must be done, without much detail about the code with the incentive for the student to create their own code, the objective and to reach the same result in the end
 
-<img src="assets/2022-07-03.png" alt="DevMedia exercício" title="exercício">
+<img src="assets/2022-07-03.png" height="500px" width="700px" alt="DevMedia exercício" title="exercício">
 
  Na imagem acima, temos um exemplo de como são os Cards explicativo
 
@@ -27,6 +27,8 @@ link para ,layout de como deveria ficar ,a estrutura da Pagina Principal:
 - [X] Fazer estrutura pagina dos Quartos
 - [X] Css da pagina dos quartos
   
-Imagem de como ficou:
-<img src="assets/My%20first%20website.gif" alt="imagen do meu arquivo " title="Meu primeiro site" heigth="100px" width="200px">
+### Imagem de como ficou:
+
+_________________________
+<img src="assets/My%20first%20website.gif" alt="imagen do meu arquivo " title="Meu primeiro site" heigth="600px" width="700px">
 
